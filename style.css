@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+.my-carousel {
+  width: 640px;
+  height: 360px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
+
+swiper2 {
+  height: 140px;
+}
+
+h2, p {
+  margin: 0;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.swiper1 {
+  margin-top: 10px;
+}
+
